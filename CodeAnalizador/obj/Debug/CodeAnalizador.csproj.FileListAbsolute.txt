@@ -1,0 +1,11 @@
+C:\Users\DELL\Desktop\URIEL\PROYECTO\CodeAnalizador\CodeAnalizador\obj\Debug\CodeAnalizador.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\URIEL\PROYECTO\CodeAnalizador\CodeAnalizador\obj\Debug\CodeAnalizador.Form1.resources
+C:\Users\DELL\Desktop\URIEL\PROYECTO\CodeAnalizador\CodeAnalizador\obj\Debug\CodeAnalizador.Properties.Resources.resources
+C:\Users\DELL\Desktop\URIEL\PROYECTO\CodeAnalizador\CodeAnalizador\obj\Debug\CodeAnalizador.csproj.GenerateResource.cache
+C:\Users\DELL\Desktop\URIEL\PROYECTO\CodeAnalizador\CodeAnalizador\obj\Debug\CodeAnalizador.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\URIEL\PROYECTO\CodeAnalizador\CodeAnalizador\bin\Debug\CodeAnalizador.exe.config
+C:\Users\DELL\Desktop\URIEL\PROYECTO\CodeAnalizador\CodeAnalizador\bin\Debug\CodeAnalizador.exe
+C:\Users\DELL\Desktop\URIEL\PROYECTO\CodeAnalizador\CodeAnalizador\bin\Debug\CodeAnalizador.pdb
+C:\Users\DELL\Desktop\URIEL\PROYECTO\CodeAnalizador\CodeAnalizador\obj\Debug\CodeAnalizador.exe
+C:\Users\DELL\Desktop\URIEL\PROYECTO\CodeAnalizador\CodeAnalizador\obj\Debug\CodeAnalizador.pdb
+C:\Users\DELL\Desktop\URIEL\PROYECTO\CodeAnalizador\CodeAnalizador\obj\Debug\CodeAnalizador.ManualDeUsuario.resources
